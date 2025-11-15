@@ -50,28 +50,6 @@ The tool assigns scores based on these factors and provides feedback such as:
   - `re` for regular expression analysis
   - `argparse` for command line parsing
 
-You can install any additional dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ritesh-r99/password-strength-checker.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd password-strength-checker
-   ```
-
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
